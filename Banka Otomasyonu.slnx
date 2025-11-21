@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Banka Otomasyonu.csproj">
+    <BuildType Project="Release" />
+  </Project>
+</Solution>
